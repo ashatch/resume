@@ -13,7 +13,7 @@ _Technologies & Patterns:_
 * Java 6 through 12, TypeScript/node, Ruby, Lua, Bash, Go
 * Docker, AWS ECS & AWS Fargate, AWS Lambda
 * AWS EC2, S3, SQS, Kinesis, DynamoDB, Simple Workflow (SWF), Cloud Development Kit (CDK), Cloudformation
-* Git, Maven, Gradle Bitbucket Pipelines, Confluence, Jenkins, Teamcity, Blazemeter, Taurus, jMeter, Sonar
+* Git, Maven, Gradle, CI/CD (Bitbucket Pipelines), Jira, Confluence, Jenkins, Teamcity, Blazemeter, Taurus, jMeter, Sonar
 * MongoDB, Cassandra, Solr, Elasticsearch, MSSQL
 * vert.x, Spring Boot, JSON-API, JSON Schema,
 * Microservices, REST, asynchronous, reactive/multi-reactor, HAL, HATEOAS, TDD, CI/Continuous Delivery, Gherkin/Cucumber.
