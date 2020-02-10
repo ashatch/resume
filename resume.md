@@ -1,5 +1,7 @@
 # Andrew Hatch (B.Sc., Ph.D.) - Senior Software Engineer
 
+<img src="https://chart.apis.google.com/chart?cht=tx&chl=call(me)%20=%20{%2b44\left{{{7949}\over{418199}}\right}}&chs=150" width="150">
+
 A proven track record of high performance, large scale microservice-oriented systems. Hands-on senior software engineer, team lead and scrum master. Customer-facing, with strong interpersonal skills. Solid R&D background, holding many publications and two patents.
 
 ## Employment History
