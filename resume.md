@@ -61,6 +61,17 @@ Full-stack developer attached to the Customer Interactions Team at EE Ltd. (tele
 
 Hands-on in all aspects of delivery: business engagement, cost estimation, project tracking, high-level design, test driven development, integration testing and support. Strong use of Agile and SCRUM with pair-programming as needed.
 
+_Technologies & Patterns:_
+
+* HTML, CSS, jQuery, Bootstrap, Underscore, Less, JSON-RPC, Websockets.
+* LAMP stack with Symfony 2, Doctrine, Gearman
+* MySQL, Oracle 9, Memcache
+* Apache CXF on Tomcat
+* Java/Spring MVC with Hibernate stacks
+* SOA approach with SOAP/XML and RESTful enterprise bus.
+* Git, SVN, Rational ClearCase, Maven, Ant, Vagrant, Docker & Jenkins
+* TDD with xUnit libraries, Selenium testing, code coverage analysis, and automated coding standards enforcement.
+
 ### Technical Director, Challenger Technologies Ltd
 
 * Oct 2011 - Nov 2014
