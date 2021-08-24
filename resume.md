@@ -11,7 +11,7 @@ A proven track record of high performance, large scale microservice-oriented sys
 retailers and well known brands as customers.
 
 Led a team in a multi-team project to build a service-oriented
-content management system (_Java, Spring Boot, AWS, MongoDB,
+content management system (_Java, Kotlin, Spring Boot, AWS, MongoDB,
 Elasticsearch, Kinesis_).
 Iterative development though to 10 million requests/day.
 Delivered on-time with a low defect-rate.
@@ -46,7 +46,7 @@ migration to AWS Fargate. Built tooling (Lambdas) to scale development environme
 
 _Technologies & Patterns:_
 
-* Java 6 through 12, TypeScript/node, Ruby, Lua, Bash, Go
+* Java 6 through 12, Kotlin 1.3, TypeScript/node, Ruby, Lua, Bash, Go
 * Docker, AWS ECS & AWS Fargate, AWS Lambda
 * AWS EC2, S3, SQS, Kinesis, DynamoDB, Simple Workflow (SWF), Cloud Development Kit (CDK), Cloudformation
 * Git, Maven, Gradle, CI/CD (Bitbucket Pipelines), Jira, Confluence, Jenkins, Teamcity, Blazemeter, Taurus, jMeter, Sonar
