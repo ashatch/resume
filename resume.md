@@ -37,7 +37,7 @@ Orchestrated using AWS CDK.
 Led a team to diagnose and protect an internet-facing API from
 DDoS-like traffic spikes using a token-bucket rate limiting
 layer using AWS API Gateway, Cloudfront and WAF.
-Significantly reduced indicent rates.
+Significantly reduced incident rates.
 
 Ran a mini project to reduce development costs. Optimised
 AWS resource use to bring down expenditure by 30%.
