@@ -47,11 +47,11 @@ migration to AWS Fargate. Built tooling (Lambdas) to scale development environme
 _Technologies & Patterns:_
 
 * Java 6 through 12, Kotlin 1.3, TypeScript/node, Ruby, Lua, Bash, Go
-* Docker, AWS ECS & AWS Fargate, AWS Lambda
+* Docker, AWS ECS & AWS Fargate, AWS Lambda, AWS Step Functions
 * AWS EC2, S3, SQS, Kinesis, DynamoDB, Simple Workflow (SWF), Cloud Development Kit (CDK), Cloudformation
 * Git, Maven, Gradle, CI/CD (Bitbucket Pipelines), Jira, Confluence, Jenkins, Teamcity, Blazemeter, Taurus, jMeter, Sonar
 * MongoDB, Cassandra, Solr, Elasticsearch, MSSQL
-* vert.x, Spring Boot, JSON-API, JSON Schema,
+* vert.x (RxJava2), Spring Boot, JSON-API, JSON Schema,
 * Microservices, REST, asynchronous, reactive/multi-reactor, HAL, HATEOAS, TDD, CI/Continuous Delivery, Gherkin/Cucumber.
 * CDNs, Anycast networks (AWS Global Accelerator), Cloudfront, API Gateway
 
