@@ -1,3 +1,6 @@
+# requirements
+# brew install pandoc basictex
+
 default: resume.pdf;
 
 resume.pdf:

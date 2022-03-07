@@ -4,9 +4,19 @@
 
 A proven track record of high performance, large scale microservice-oriented systems. Hands-on senior software engineer, team lead and scrum master. Customer-facing, with strong interpersonal skills. Solid R&D background, holding many publications and two patents.
 
+## Principle Software Engineer, Discover Financial Services
+
+* November 2021 - present
+* Discover Financial Services owns Discover Bank, the Discover Network
+and Diners Club International.
+
+Developing services for a domain in Digital Payments, focusing on
+REST APIs and an Event Driven Architecture (Java 11 Spring Boot, Podman, Kubernetes,
+Apache Kafka, Avro Schemas, PostgreSQL, Vault, ELK observability) along with ISO 8583.
+
 ## Senior Software Engineer & Team Lead, Amplience
 
-* September 2015 – present.
+* September 2015 – November 2021.
 * Amplience is a headless content SaaS platform with tier-1
 retailers and well known brands as customers.
 
